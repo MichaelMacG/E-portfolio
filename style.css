@@ -209,8 +209,7 @@ a:hover {
   }
 
   .contact-me {
-    margin-bottom: 100px;
-    margin-top: 100px;  
+    margin: 100px 0;
   }
   .footer {
     background-color: #537698;
