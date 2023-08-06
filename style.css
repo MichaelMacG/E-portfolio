@@ -210,6 +210,7 @@ a:hover {
 
   .contact-me {
     margin-bottom: 100px;
+    margin-top: 100px;  
   }
   .footer {
     background-color: #537698;
@@ -228,7 +229,7 @@ a:hover {
     }
     .top >h3{
         font-size: 2rem;
-        padding-left: 2rem;
+        padding-left: 1rem;
 
     }
  }
