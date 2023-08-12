@@ -247,7 +247,7 @@ a:hover {
       grid-template-rows: repeat(auto-fit, minmax(100px,1fr));
     }
     .portfolio > .grid-item{
-        margin-top: 20px;
+        margin: 20px;
     }
     .portfolio-img{
            width: 60%;
