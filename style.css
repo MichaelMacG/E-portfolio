@@ -243,14 +243,6 @@ div.grid-item.hobbies > h3:nth-child(4){
     padding-top: 30px;
 }
 
-div.grid-item.hobbies > h3:nth-child(8){
-    padding-top: 50px;
-}
-
-div.grid-item.hobbies > p:nth-child(9){
-    padding-top: 25px;
-}
-
  }
 
  @media (max-width: 800px){
